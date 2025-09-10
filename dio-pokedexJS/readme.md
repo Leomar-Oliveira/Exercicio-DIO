@@ -26,11 +26,19 @@ Uma aplicação web interativa que consome a **PokéAPI** para listar Pokémon, 
 
 ---
 
+📸 Demonstração
+
+![Demonstração da Pokedex](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N0d2I0enJ4bGdwamV0YWpsM25hdGozZnBob3ozeDViejY2bWs1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iu8mb0CzG96pgO6b0g/giphy.gif)
+
+
+
+
 ## 🚀 Como executar o projeto
 
 ## Clone o repositório:
    ```bash
-   git clone 
+
+   git clone  https://github.com/Leomar-Oliveira/Exercicio-DIO/edit/main/dio-pokedexJS
 
 
 📂 Estrutura de pastas
@@ -45,11 +53,6 @@ Uma aplicação web interativa que consome a **PokéAPI** para listar Pokémon, 
     │   ├── detail.js
     │   ├── poke-api.js
     │   ├── pokemon-model.js
-
-
-📸 Demonstração
-
-(Aqui você pode colocar prints da sua aplicação ou até um gif mostrando a navegação entre as páginas!)
 
 
 📌 Créditos
